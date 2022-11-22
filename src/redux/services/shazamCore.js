@@ -16,4 +16,4 @@ export const shazamCoreApi = createApi({
   })
 });
 
-export const {UseGetTopChartsQuery} = shazamCoreApi;
+export const {useGetTopChartsQuery} = shazamCoreApi;
